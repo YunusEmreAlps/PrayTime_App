@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prayer Time</string>
+    <string name="monday">Pazartesi</string>
+    <string name="tuesday">Salı</string>
+    <string name="wednesday">Çarşamba</string>
+    <string name="thursday">Perşembe</string>
+    <string name="friday">Cuma</string>
+    <string name="saturday">Cumartesi</string>
+    <string name="sunday">Pazar</string>
+    <string name="fajr">İmsak</string>
+    <string name="sunrise">Güneş</string>
+    <string name="dhuhr">Öğle</string>
+    <string name="asr">İkindi</string>
+    <string name="isha">Yatsı</string>
+    <string name="maghrib">Akşam / İftar</string>
+    <string name="prayerheader">Namaz Vakitleri</string>
+    <string name="fajrleft">\u0020 dakika kaldı</string>
+    <string name="sunriseleft">\u0020 dakika kaldı</string>
+    <string name="dhuhrleft">\u0020 dakika kaldı</string>
+    <string name="asrleft">\u0020 dakika kaldı</string>
+    <string name="maghribleft">\u0020 dakika kaldı</string>
+    <string name="ishaleft">\u0020 dakika kaldı</string>
+    <string name="fajrtime">Sabah Namazı Vakti</string>
+    <string name="sunrisetime">Güneş Doğdu</string>
+    <string name="dhuhrtime">Öğle Namazı Vakti</string>
+    <string name="asrtime">İkindi Namazı Vakti</string>
+    <string name="maghribtime">Akşam Namazı Vakti</string>
+    <string name="ishatime">Yatsı Namazı Vakti</string>
+</resources>

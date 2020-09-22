@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prayer Time</string>
+    <string name="monday">Montag</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="wednesday">Mittwoch</string>
+    <string name="thursday">Donnerstag</string>
+    <string name="friday">Freitag</string>
+    <string name="saturday">Samstag</string>
+    <string name="sunday">Sonntag</string>
+    <string name="fajr">Fajr</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="isha">Isha</string>
+    <string name="sunrise">S\'Aufgang</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="prayerheader">Gebetszeiten</string>
+    <string name="fajrleft">\u0020 minuten zum Fadschr</string>
+    <string name="sunriseleft">\u0020 minuten bis zum Sonnenaufgang</string>
+    <string name="dhuhrleft">\u0020 minuten zur Dhuhur</string>
+    <string name="asrleft">\u0020 minuten zum \'Assr</string>
+    <string name="maghribleft">\u0020 minuten zum Maghrib</string>
+    <string name="ishaleft">\u0020 minuten zum Isha\'a</string>
+    <string name="fajrtime">" Zeit zum Fajr"</string>
+    <string name="sunrisetime">" Zeit bis zum Sonnenaufgang"</string>
+    <string name="dhuhrtime">Zeit zur Dhuhr</string>
+    <string name="asrtime">" Zeit zum Asr"</string>
+    <string name="maghribtime">" Zeit zum Maghrib "</string>
+    <string name="ishatime">Zeit für die Isha\'a</string>
+</resources>

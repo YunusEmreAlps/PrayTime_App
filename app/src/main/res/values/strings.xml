@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Prayer Time</string>
+    <string name="dark_mode_enabled" translatable="false">Dark Mode Enabled</string>
+    <string name="item" translatable="false">Item</string>
+
+    <!-- Days -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <!-- Prayer Timings -->
+    <string name="prayerheader">Prayer Timings</string>
+    <string name="fajr">Fajr</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="praytime" translatable="false">00:00</string>
+
+    <string name="fajrleft">\u0020 minutes to the Fajr</string>
+    <string name="sunriseleft">\u0020 minutes to the Sunrise</string>
+    <string name="dhuhrleft">\u0020 minutes to the Dhuhr</string>
+    <string name="asrleft">\u0020 minutes to the Asr</string>
+    <string name="maghribleft">\u0020 minutes to the Maghrib</string>
+    <string name="ishaleft">\u0020 minutes to the Isha\'a</string>
+
+
+    <string name="fajrtime">Time to the Fajr</string>
+    <string name="sunrisetime">Time to the Sunrise</string>
+    <string name="dhuhrtime">Time to the Dhuhr</string>
+    <string name="asrtime">Time to the Asr</string>
+    <string name="maghribtime">Time to the Maghrib</string>
+    <string name="ishatime">Time to the Isha\'a</string>
+
+
+
+    <!-- Compass -->
+    <string name="north" translatable="false">N</string>
+    <string name="south" translatable="false">S</string>
+    <string name="west"  translatable="false">W</string>
+    <string name="east"  translatable="false">E</string>
+    <string name="todo"  translatable="false">TODO</string>
+
+</resources>
